@@ -1,0 +1,26 @@
+{
+  "name": "formation-devops",
+  "version": "1.0.0",
+  "description": "\"# formation-devops\"",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "should": "^13.2.1"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ounes/formation-devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ounes/formation-devops/issues"
+  },
+  "homepage": "https://github.com/ounes/formation-devops#readme"
+}
